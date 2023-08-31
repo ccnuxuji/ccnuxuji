@@ -46,6 +46,7 @@ A Tumblr replica, is a platform where users can share posts, engage in discussio
 ### [Airdnd](https://mytumblr.onrender.com/)
 A web application inspired by Airbnb, the renowned online marketplace for both short and long-term homestays
 
+<!--
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccnuxuji&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,7 +55,6 @@ A web application inspired by Airbnb, the renowned online marketplace for both s
 
 
 
-<!--
 **ccnuxuji/ccnuxuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
