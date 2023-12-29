@@ -34,7 +34,7 @@ My name is Jimmy. I'm a full stack software engineer and web developer based in 
 
 ## Projects
 
-### <a href="https://www.example.com" target="_blank">Coinguard</a>
+### <a href="https://coinguard.onrender.com/" target="_blank">Coinguard</a>
 A web application inspired by the popular stock exchange website, Robinhood.
 
 ### [Eshop](https://www.ecommerce.jimmyxj.com/)
