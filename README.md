@@ -37,7 +37,7 @@ My name is Jimmy. I'm a full stack software engineer and web developer based in 
 ### [Coinguard](https://coinguard.onrender.com/)
 A web application inspired by the popular stock exchange website, Robinhood.
 
-### [Eshop](https://www.ecommerce.jimmyxj.com/)
+### [Eshop](https://www.eshop.jimmyxj.com/)
 A online shopping web application. With user-friendly features, you can easily add and organize items in your shopping cart. 
 
 ### [Bumblr](https://mytumblr.onrender.com/)
