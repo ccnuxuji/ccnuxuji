@@ -43,8 +43,10 @@ A online shopping web application. With user-friendly features, you can easily a
 ### [Bumblr](https://mytumblr.onrender.com/)
 A Tumblr replica, is a platform where users can share posts, engage in discussions through comments, express their appreciation via likes, and connect by following each other.
 
-### [Airdnd](https://mytumblr.onrender.com/)
+<!--
+### [Airdnd](https://airdnd.onrender.com/)
 A web application inspired by Airbnb, the renowned online marketplace for both short and long-term homestays
+-->
 
 <!--
 ## Github Stats
